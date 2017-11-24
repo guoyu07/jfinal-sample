@@ -15,7 +15,7 @@
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
 
-        <jfinal.version>3.2</jfinal.version>
+        <jfinal.version>3.3</jfinal.version>
         <jfinal.jetty.version>8.1.8</jfinal.jetty.version>
         <junit.version>4.12</junit.version>
     </properties>
